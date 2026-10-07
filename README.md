@@ -1,9 +1,9 @@
-Proiectul TransportPersoane este o aplicație orientată spre gestionarea serviciilor de transport de călători și cuprinde următoarele funcționalități principale:
+The TransportPersoane project is an application focused on managing passenger transport services, featuring the following core functionalities:
 
-Gestionarea rutelor și a traseelor: Permite definirea, configurarea și administrarea rutele de transport disponibile, stațiilor și orarelor aferente.
+Route and Itinerary Management: Allows the definition, configuration, and administration of available transport routes, stations, and corresponding schedules.
 
-Evidența biletelor și a rezervărilor: Monitorizează achiziționarea biletelor, locurile rezervate și starea călătoriilor pentru fiecare cursă în parte.
+Ticket and Reservation Tracking: Monitors ticket purchases, reserved seats, and travel status for each individual trip.
 
-Administrarea flotei și a personalului: Gestionează mijloacele de transport utilizate, capacitatea acestora, precum și programul șoferilor sau al personalului de bord.
+Fleet and Staff Administration: Manages the vehicles used, their capacity, as well as the work schedules of drivers or onboard personnel.
 
-Organizarea fluxului operațional: Asigură o structură clară pentru planificarea curselor, urmărirea disponibilității și optimizarea serviciilor oferite pasagerilor.
+Workflow Organization: Ensures a clear structure for trip planning, availability tracking, and optimizing the services offered to passengers.
